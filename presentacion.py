@@ -1,0 +1,5 @@
+print("")
+print("Hola, me llamo Emilio.")
+print("Estoy aprendiendo Python.")
+print("Estoy comprometido a ser un experto en septiembre de 2026.")
+print("¡Vamos con todo!")
